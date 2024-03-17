@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COOLYEAH\\Semester 4\\KPL\\TP \u0026 Latihan\\TPMod5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03ACF8A5-330A-43A6-899D-EE933EA15971}|TPMod5\\TPMod5.csproj|d:\\coolyeah\\semester 4\\kpl\\tp \u0026 latihan\\tpmod5\\tpmod5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03ACF8A5-330A-43A6-899D-EE933EA15971}|TPMod5\\TPMod5.csproj|solutionrelative:tpmod5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COOLYEAH\\Semester 4\\KPL\\TP \u0026 Latihan\\TPMod5\\TPMod5\\Program.cs",
+              "RelativeDocumentMoniker": "TPMod5\\Program.cs",
+              "ToolTip": "D:\\COOLYEAH\\Semester 4\\KPL\\TP \u0026 Latihan\\TPMod5\\TPMod5\\Program.cs",
+              "RelativeToolTip": "TPMod5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:18:43.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
